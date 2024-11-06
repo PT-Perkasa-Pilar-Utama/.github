@@ -1,2 +1,5 @@
-# .github
-Our profile
+The digital transformation era is becoming a trend for companies to change the way of doing business. Digital transformation journey is one of the key aspect that organizations need to adopt and choose the right technologies. As one of the leading IT solution company since 1996, Our digital transformation solution technologies and team will help to transform your digital experience, enhance and streamline business process, improve customer digital experience, increase revenues and enter new market opportunities as part of the digital transformation journey.
+
+Furthermore, we are determined to help our customers to view technology as not just a tool which mainly functions to automate business processes but as a solution that greatly improves information flow within the organization, interact with customers and suppliers, supports decision making, provides analysis and cost effective, and makes it more flexible in a fast moving world of change.
+
+Our wide range of solutions and services offerings are geared towards ensuring that your business’ IT needs are not just met, but exceeded. Our partnership with leading IT solution vendors such as Oracle, Outsystems, Marklogic, Navicat and also supported by our professional IT teams with expertise in technology, knowledge of business process in various industries to provide customers a competitive edge in the market and makes it more flexible in a fast moving world of change.
